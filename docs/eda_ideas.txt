@@ -1,0 +1,8 @@
+create day of week variable before proceeding with eda
+
+1. lineplot -  date and 21 variables
+2. lineplot - date and y
+3. correlation heatmap - weather variables and y
+4. box plot - day_of_week and y
+5. box plot - month and y
+6. MoM percent growth
